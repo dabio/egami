@@ -1,0 +1,8 @@
+{
+  "name": "egami",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::200885815221:role/egami_lambda_function",
+  "environment": {}
+}
